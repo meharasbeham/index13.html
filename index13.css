@@ -1,0 +1,56 @@
+
+.a{
+    width: 400px;
+    background-color: rgb(98, 159, 230);
+}
+.c{
+    background-color: rgb(235, 172, 224);
+    color:rgb(228, 19, 12);
+}
+.b{  
+    margin: 5px 0px;
+    width: 440px;
+    height:35px;
+    text-align: left ;
+    background-color: rgb(214, 114, 201);
+}
+.d{
+    
+    font-size: small;
+}
+.p1{
+    width: 440px;
+    height: 35px;
+    text-align: left;
+    font-size: small;
+    background-color: rgb(224, 142, 211);
+}
+.p2{
+    width: 440px;
+    height: 40px;
+    text-align: left;
+    font-size: small;
+    background-color: rgb(212, 103, 189);
+}
+.h{
+    margin-top: 10px;
+}
+ .d1{
+    font-size: small;
+    height: 20px;
+ }
+ .t{
+    background-color: cornflowerblue;
+    width:450px;
+height: 55px;
+ }
+ .s{
+    background-color: chartreuse;
+ }
+ .n{
+    background-color: rgb(241, 86, 164);
+ }
+ .n1{
+    background-color: rgb(235, 79, 164);
+ }
+
